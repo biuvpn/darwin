@@ -1,6 +1,15 @@
 {
-    "buildno":301704072158,
-    "url":"https://test.com",
-    "hash":"fake hash",
-    "changelog":[]
+    "buildno":201704072324,
+    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_a1d5.bin",
+    "hash":"a1d591f8f3c3d038a02b6310179a44f8f4aae4e8618648fc1a697d44559f02ad",
+    "changelog":[
+        {
+            "buildno":201704072324,
+            "infos":[
+                "又让你更新一次,是不是很慌?不用担心我们的更新系统没坏,勇敢的点击更新吧",
+                "优化了软件更新界面的排版",
+                "添加了版本更新信息的显示,就是你现在看到的这个东东(感谢@darren)"
+            ]
+        }
+    ]
 }
