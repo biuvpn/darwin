@@ -2,5 +2,13 @@
     "buildno":123123,
     "url":"https://test.com",
     "hash":"fake hash",
-    "changelog":[]
+    "changelog":[
+        {
+            "buildno":123123,
+            "infos":[
+                "haha",
+                "haha2"
+            ]
+        }
+    ]
 }
