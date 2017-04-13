@@ -1,8 +1,14 @@
 {
-    "buildno":201704072324,
-    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_a1d5.bin",
-    "hash":"a1d591f8f3c3d038a02b6310179a44f8f4aae4e8618648fc1a697d44559f02ad",
+    "buildno":201704131708,
+    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_4bc0.bin",
+    "hash":"4bc00ceb32a863f0d61f83441ab9da35e90169a3b9ea4a2e5c3ae02cbe82bc2d",
     "changelog":[
+        {
+            "buildno":201704131708,
+            "infos":[
+                "修复软件启动时可能出现错误警告的情况(感谢@小可爱)"
+            ]
+        },
         {
             "buildno":201704072324,
             "infos":[
