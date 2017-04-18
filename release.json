@@ -1,8 +1,15 @@
 {
-    "buildno":201704131708,
-    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_4bc0.bin",
-    "hash":"4bc00ceb32a863f0d61f83441ab9da35e90169a3b9ea4a2e5c3ae02cbe82bc2d",
+    "buildno":201704181750,
+    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_fa99.bin",
+    "hash":"fa995eab7946eae56b32d8ae7a5d637d2fad4790c74b5c6ce2c9189f7782e60a",
     "changelog":[
+        {
+            "buildno":201704181750,
+            "infos":[
+                "添加了pinterest网站的加速(感谢@小可爱)",
+                "添加了加速网站列表更新功能(@jerry)"
+            ]
+        },
         {
             "buildno":201704131708,
             "infos":[
