@@ -1,8 +1,15 @@
 {
-    "buildno":201704181750,
-    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_fa99.bin",
-    "hash":"fa995eab7946eae56b32d8ae7a5d637d2fad4790c74b5c6ce2c9189f7782e60a",
+    "buildno":201704221651,
+    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_e5e8.bin",
+    "hash":"e5e8f27826821be42a6a5c9c49866a257a531b26f19db118b5d2fe632999f46d",
     "changelog":[
+        {
+            "buildno":201704221651,
+            "infos":[
+                "优化了主界面的性能,现在主界面动画不再卡顿,CPU占用率降低",
+                "对程序底层做了重构和优化,运行起来比以前更快了"
+            ]
+        },
         {
             "buildno":201704181750,
             "infos":[
