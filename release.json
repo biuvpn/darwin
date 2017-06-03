@@ -1,12 +1,18 @@
 {
-    "buildno":201704250920,
-    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_1cb2.bin",
-    "hash":"1cb2bf71f2c47a9f1ed60d343561ef0d4f205db5d1f410392401665f23b6a8fc",
+    "buildno":201706032342,
+    "url":"https://raw.githubusercontent.com/biuvpn/darwin/master/darwin_1c60.bin",
+    "hash":"1c6076c854b7f8d4fcb62a09afb32a2b818dd1472db79662c1bcdc54c6565b92",
     "changelog":[
+        {
+            "buildno":201706032342,
+            "infos":[
+                "修复无法下载更新包的问题(感谢@victor)"
+            ]
+        },
         {
             "buildno":201704250920,
             "infos":[
-                "修复了mac上点击dock图标回到首页的bug(@感谢darren)",
+                "修复了mac上点击dock图标回到首页的bug(感谢@darren)",
                 "优化了注册和激活页面(感谢@darren)"
             ]
         },
